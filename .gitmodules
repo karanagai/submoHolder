@@ -1,0 +1,3 @@
+[submodule "submoChild"]
+	path = submoChild
+	url = git@github.com:karanagai/submoChild.git
