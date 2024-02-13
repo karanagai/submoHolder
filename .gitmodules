@@ -1,4 +1,5 @@
 [submodule "submoChild"]
+	path = submoChild
 	url = https://github.com/karanagai/submoChild.git
 [submodule "TestKtsDiscovery"]
 	path = TestKtsDiscovery
